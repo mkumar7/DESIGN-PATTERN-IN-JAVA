@@ -1,4 +1,5 @@
 Author(s): MANISH KUMAR
+
 CS-542-ASSIGNMENT-5
 
 PURPOSE: Implement Proxy pattern with combination of strategy pattern to make object into serialization and deserialization.
