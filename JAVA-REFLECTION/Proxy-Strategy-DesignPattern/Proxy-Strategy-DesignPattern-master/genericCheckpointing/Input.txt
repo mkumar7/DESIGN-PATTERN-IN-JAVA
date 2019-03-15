@@ -1,0 +1,16 @@
+<DPSerialization>
+ <complexType xsi:type="genericCheckpointing.util.MyAllTypesFirst">
+  <myInt xsi:type="xsd:int">90</myInt>
+  <myLong xsi:type="xsd:long">614</myLong>
+  <myString xsi:type="xsd:string">Design Patterns</myString>
+  <myBool xsi:type="xsd:boolean">false</myBool>
+ </complexType>
+</DPSerialization>
+<DPSerialization>
+ <complexType xsi:type="genericCheckpointing.util.MyAllTypesSecond">
+  <myDoubleT xsi:type="xsd:double">409.2637124124896</myDoubleT>
+  <myFloatT xsi:type="xsd:float">29.188469</myFloatT>
+  <myCharT xsi:type="xsd:char">P</myCharT>
+  <myShortT xsi:type="xsd:short">71</myShortT>
+ </complexType>
+</DPSerialization>
