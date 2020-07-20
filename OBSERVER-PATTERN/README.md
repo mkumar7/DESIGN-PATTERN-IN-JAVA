@@ -1,4 +1,4 @@
-## CS 542 - Assignment 2
+
 
 Name - MANISH KUMAR
 
